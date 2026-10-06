@@ -17,8 +17,9 @@ Hi, I'm **Muhammad Shoaban**, a **Full Stack Developer** from Pakistan 🇵🇰 
 - 💼 Software Engineer at **Rated Sol Tech**
 - 🛠️ I build backends in **Laravel** and frontends in **React / React Native**
 - ☁️ I also handle deployment: **DigitalOcean, AWS EC2, CloudPanel, CI/CD pipelines**
-- 🟢 I also build **Node.js** APIs and backends, and automate workflows with **n8n**
-- 🤖 I use **Claude Code** and AI tools to build, debug and ship faster, so I can take on work across the whole stack
+- 🟢 I also build **Node.js** APIs and backends
+- 🔗 I build **AI integrations** and workflow automations with **n8n, Zapier and GoHighLevel (GHL)**
+- 🤖 I use **Claude Code**, **Codex** and other AI tools to build, debug and ship faster, so I can take on work across the whole stack
 - 🧑‍💻 Freelance web application developer (Fiverr & direct clients)
 - 🎓 BS Information Technology, Ghazi University
 - 🌐 Portfolio: [muhammadshoaban.vercel.app](https://muhammadshoaban.vercel.app/)
@@ -58,3 +59,7 @@ Hi, I'm **Muhammad Shoaban**, a **Full Stack Developer** from Pakistan 🇵🇰 
 ### Automation & AI
 ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Integrations](https://img.shields.io/badge/AI_Integrations-8b5cf6?style=flat-square&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-ff4a00?style=flat-square&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel_(GHL)-22c55e?style=flat-square)
