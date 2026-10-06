@@ -17,6 +17,8 @@ Hi, I'm **Muhammad Shoaban**, a **Full Stack Developer** from Pakistan 🇵🇰 
 - 💼 Software Engineer at **Rated Sol Tech**
 - 🛠️ I build backends in **Laravel** and frontends in **React / React Native**
 - ☁️ I also handle deployment: **DigitalOcean, AWS EC2, CloudPanel, CI/CD pipelines**
+- 🟢 I also build **Node.js** APIs and backends, and automate workflows with **n8n**
+- 🤖 I use **Claude Code** and AI tools to build, debug and ship faster, so I can take on work across the whole stack
 - 🧑‍💻 Freelance web application developer (Fiverr & direct clients)
 - 🎓 BS Information Technology, Ghazi University
 - 🌐 Portfolio: [muhammadshoaban.vercel.app](https://muhammadshoaban.vercel.app/)
@@ -35,6 +37,8 @@ Hi, I'm **Muhammad Shoaban**, a **Full Stack Developer** from Pakistan 🇵🇰 
 ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=flat-square&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
@@ -42,9 +46,15 @@ Hi, I'm **Muhammad Shoaban**, a **Full Stack Developer** from Pakistan 🇵🇰 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
 
 ### DevOps & Tools
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080ff?style=flat-square&logo=digitalocean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+
+### Automation & AI
+![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=claude&logoColor=white)
