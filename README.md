@@ -48,12 +48,3 @@ Hi, I'm **Muhammad Shoaban**, a **Full Stack Developer** from Pakistan 🇵🇰 
 ![AWS](https://img.shields.io/badge/AWS_EC2-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mshoaban&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshoaban&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=true" alt="Top languages">
-</p>
